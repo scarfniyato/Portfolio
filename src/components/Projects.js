@@ -20,7 +20,7 @@ export const Projects = () => {
       title: "KEEPLY: Keep It Scheduled",
       description: "A productivity mobile app created for students to manage academic responsibilities more effectively. I led development using React Native, Firebase, and TypeScript. Key features include a schedule planner, course-based folders, and in-app note-taking. KEEPLY helps students stay organized and reduce academic stress.",
       imgUrl: projImg2,
-      link: "https://example.com/project2"
+      link: "https://www.figma.com/proto/SjPFCHHD5OtuvWQT9Z0YeZ/keeply.?node-id=76-433&p=f&t=Ws1lCMBURkBu20In-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=76%3A433&show-proto-sidebar=1"
     },
     {
       title: "SOSeco – Community Reporting System",
